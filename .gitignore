@@ -1,0 +1,43 @@
+# Arquivos de compilação #
+bin/
+obj/
+
+# Arquivos temporários #
+[Tt]emp/
+[Vv]isual[Ss]tudio[Ss]tate/
+*.bak
+*.log
+
+# Pacotes NuGet #
+packages/
+*.nupkg
+debug/
+release/
+
+# Ferramentas #
+_ReSharper*/
+*.resharper
+*.suo
+*.user
+*.sln.docstates
+
+# Arquivos específicos de IDEs #
+*.vscode/
+*.idea/
+
+# Arquivo de configuração pessoal #
+appsettings.json
+
+# Arquivos de build do MSBuild #
+*.cache
+*.tgz
+*.rar
+*.zip
+
+# Arquivos de dependências e ambientes #
+node_modules/
+.env
+
+# Outros arquivos #
+Thumbs.db
+.DS_Store
